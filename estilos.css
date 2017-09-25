@@ -1,0 +1,18 @@
+body{
+    
+}
+
+#tablero div {
+    width: 10px;
+    height: 10px;
+    border: 1px solid #cccccc;
+    float: left;
+}
+
+#tablero div.vivo {
+    background-color: #000000;
+}
+
+#tablero {
+    margin: 0px auto;
+}
